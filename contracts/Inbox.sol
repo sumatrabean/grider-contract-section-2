@@ -3,6 +3,8 @@ pragma solidity ^0.4.17;
 
 // contract code will go here
 
+// test commit
+
 contract Inbox {
     string public message;
 
